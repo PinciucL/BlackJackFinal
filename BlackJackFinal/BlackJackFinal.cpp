@@ -55,29 +55,6 @@ int calculateTotal(const vector<int>& hand)
 
 void showHand(const vector<int>& hand, const string& owner);
 
-
-
-
-vector<int> createShuffledDeck() 
-{
-    
-}
-
-int cardValue(int card) 
-{
-   
-}
-
-int calculateTotal(const vector<int>& hand) 
-{
-   
-}
-
-void showHand(const vector<int>& hand, const string& owner) 
-{
-  
-}
-
 int main()
 {
     vector<int> deck = createShuffledDeck();
