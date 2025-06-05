@@ -1,0 +1,7 @@
+﻿  BlackJackFinal.cpp
+C:\Users\ionut\Desktop\itschool\BlackJackFinal\BlackJackFinal\BlackJackFinal.cpp(22,19): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\ionut\Desktop\itschool\BlackJackFinal\BlackJackFinal\BlackJackFinal.cpp(22,19): warning C4244:         with
+C:\Users\ionut\Desktop\itschool\BlackJackFinal\BlackJackFinal\BlackJackFinal.cpp(22,19): warning C4244:         [
+C:\Users\ionut\Desktop\itschool\BlackJackFinal\BlackJackFinal\BlackJackFinal.cpp(22,19): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\ionut\Desktop\itschool\BlackJackFinal\BlackJackFinal\BlackJackFinal.cpp(22,19): warning C4244:         ]
+  BlackJackFinal.vcxproj -> C:\Users\ionut\Desktop\itschool\BlackJackFinal\x64\Debug\BlackJackFinal.exe

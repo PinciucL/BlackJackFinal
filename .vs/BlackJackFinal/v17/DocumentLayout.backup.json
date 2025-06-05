@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ionut\\Desktop\\itschool\\BlackJackFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{715F1DFD-0064-4F7F-A167-34CFFDF25B83}|BlackJackFinal\\BlackJackFinal.vcxproj|C:\\Users\\ionut\\Desktop\\itschool\\BlackJackFinal\\BlackJackFinal\\BlackJackFinal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{715F1DFD-0064-4F7F-A167-34CFFDF25B83}|BlackJackFinal\\BlackJackFinal.vcxproj|solutionrelative:BlackJackFinal\\BlackJackFinal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlackJackFinal.cpp",
+              "DocumentMoniker": "C:\\Users\\ionut\\Desktop\\itschool\\BlackJackFinal\\BlackJackFinal\\BlackJackFinal.cpp",
+              "RelativeDocumentMoniker": "BlackJackFinal\\BlackJackFinal.cpp",
+              "ToolTip": "C:\\Users\\ionut\\Desktop\\itschool\\BlackJackFinal\\BlackJackFinal\\BlackJackFinal.cpp",
+              "RelativeToolTip": "BlackJackFinal\\BlackJackFinal.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-01T12:21:55.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
